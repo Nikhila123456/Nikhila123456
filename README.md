@@ -40,6 +40,7 @@ I am especially interested in roles where I can contribute to:
 - 🎓 Ph.D., Computer Science, Amrita Vishwa Vidyapeetham (2021)
 - 🏆 Former PI, **NIH NCATS award**
 - 🌊 **Nextflow Ambassador**
+- 🤝 **Postdoctoral association, relationship officer**
 
 ---
 
