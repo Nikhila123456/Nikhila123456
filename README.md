@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=K2D&size=44&duration=2000&pause=800&color=27A3F5&center=true&vCenter=true&width=850&lines=Hi%2C+I%27m+Nikhila+Suresh+%F0%9F%91%8B%F0%9F%8F%BE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=K2D&size=44&duration=2000&pause=800&color=000080&center=true&vCenter=true&width=850&lines=Hi%2C+I%27m+Dr.+Nikhila+Suresh+%F0%9F%91%8B%F0%9F%8F%BE)](https://git.io/typing-svg)
 
-### Computational Biologist · Cancer Epigenomics & Multi-Omics
+### Computational Biologist | Cancer Epigenomics & Multi-Omics
 
 I'm a Postdoctoral Research Fellow at **Florida Atlantic University**, working across DNA methylation, single-cell genomics, and liquid biopsy to turn multi-omics data into biologically meaningful, reproducible findings. My PhD is in Computer Science (Amrita Vishwa Vidyapeetham, 2021), so I sit at the intersection of the biology itself and the pipeline engineering that makes multi-omics data usable at scale.
 
@@ -9,7 +9,7 @@ I'm now looking to bring that same rigor into industry: biotech, pharma, or an A
 ---
 
 ## 🔬 What I Work On
- 
+
 ```mermaid
 flowchart LR
     A[Biological Question] --> B[Data Processing]
@@ -34,7 +34,7 @@ I am especially interested in roles where I can contribute to:
 
 - 🔬 Postdoctoral Research Fellow, **Florida Atlantic University**
 - 🔬 Former Postdoctoral Researcher, **Purdue University**
-- 🎓 Ph.D., Computer Science -Amrita Vishwa Vidyapeetham (2021)
+- 🎓 Ph.D., Computer Science, Amrita Vishwa Vidyapeetham (2021)
 - 🏆 Former PI, **NIH NCATS award**
 - 🌊 **Nextflow Ambassador**
 
@@ -68,10 +68,11 @@ I am especially interested in roles where I can contribute to:
 
 ## 🚀 Featured Projects
 
-### 1. ImmunoFusionGCT -Multi-Modal Tumor Microenvironment Atlas & Immunotherapy Response Predictor *(flagship, in development)*
+### 1. ImmunoFusionGCT: Multi-Modal Tumor Microenvironment Atlas & Immunotherapy Response Predictor *(flagship, in development)*
 A production-style pipeline fusing bulk RNA-seq, scRNA-seq, spatial transcriptomics/proteomics, and H&E pathology images to stratify patients by immune microenvironment and predict treatment response.
 
 **Tech:** `Nextflow` `Scanpy/Seurat` `Squidpy` `pathology foundation model embeddings` `graph/attention fusion` `Docker`
+
 [View Repository](https://github.com/Nikhila123456/ImmunoFusionGCT) *(coming soon)*
 
 ---
@@ -86,7 +87,7 @@ A scBasset-inspired convolutional neural network that predicts chromatin accessi
 ---
 
 ### 3. Single-Cell RNA Sequencing Analysis
-End-to-end scRNA-seq analysis workflow -QC, clustering, cell type annotation, and visualization.
+End-to-end scRNA-seq analysis workflow, covering QC, clustering, cell type annotation, and visualization.
 
 **Tech:** `Seurat` `R` `single-cell RNA-seq` `cluster annotation`
 
@@ -97,7 +98,7 @@ End-to-end scRNA-seq analysis workflow -QC, clustering, cell type annotation, an
 ### 4. Bulk RNA-Seq Analysis Pipeline
 A reproducible bulk RNA-seq processing and differential expression workflow, from raw counts through pathway-level interpretation.
 
-**Tech:** \``Shell\`` \`DESeq2\` \`bulk RNA-seq\` \``differential expression\``
+**Tech:** `Shell` `DESeq2` `bulk RNA-seq` `differential expression`
 
 [View Repository](https://github.com/Nikhila123456/Bulk-RNA-Seq-anlaysis)
 
@@ -139,4 +140,4 @@ Used interactome topology and network propagation (random walk with restart) to 
 
 ---
 
-Thanks for stopping by -I'm always up for a conversation about multi-omics integration, computational biology, or building AI tools that make it into a real industry pipeline.
+Thanks for stopping by. I'm always up for a conversation about multi-omics integration, computational biology, or building AI tools that make it into a real industry pipeline.
