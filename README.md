@@ -41,7 +41,7 @@ I am especially interested in roles where I can contribute to:
 - 🏆 Former PI, **NIH NCATS award**
 - 🌊 **Nextflow Ambassador**
 - 🤝 **Postdoctoral association, relationship officer**
-
+  
 ---
 
 ## 🧰 Technical Toolkit
