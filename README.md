@@ -9,15 +9,15 @@ I'm now looking to bring that same rigor into industry: biotech, pharma, or an A
 ---
 
 ## 🔬 What I Work On
-
-\`\`\`mermaid
+ 
+\`` mermaid
 flowchart LR
     A[Biological Question] --> B[Data Processing]
     B --> C[Reproducible Pipeline]
     C --> D[Machine Learning/ Multi-omics integration]
     D --> E[Biological Interpretation]
     E --> F[Documentation + Usable Tools]
-\`\`\`
+\``
 
 I am especially interested in roles where I can contribute to:
 
@@ -98,7 +98,7 @@ End-to-end scRNA-seq analysis workflow -QC, clustering, cell type annotation, an
 ### 4. Bulk RNA-Seq Analysis Pipeline
 A reproducible bulk RNA-seq processing and differential expression workflow, from raw counts through pathway-level interpretation.
 
-**Tech:** \`Shell\` \`DESeq2\` \`bulk RNA-seq\` \`differential expression\`
+**Tech:** \``Shell\`` \`DESeq2\` \`bulk RNA-seq\` \``differential expression\``
 
 [View Repository](https://github.com/Nikhila123456/Bulk-RNA-Seq-anlaysis)
 
@@ -107,7 +107,7 @@ A reproducible bulk RNA-seq processing and differential expression workflow, fro
 ### 5. Cross-Disease Association via Protein-Protein Interaction Networks
 Identified key genes and shared biological pathways across complex disorders using PPI network topology.
 
-**Tech:** \`network biology\` \`PPI\` \`comorbidity analysis\`
+**Tech:** \``network biology\`` \``PPI\`` \``comorbidity analysis\``
 
 [View Repository](https://github.com/Nikhila123456/A-Computational-Framework-to-Identify-Cross-Association-between-Complex-Disorders-by-Protein-Protein)
 
@@ -116,7 +116,7 @@ Identified key genes and shared biological pathways across complex disorders usi
 ### 6. Topology-Driven Prioritization of Comorbid Genes
 Used interactome topology and network propagation (random walk with restart) to prioritize key genes shared between comorbid diseases.
 
-**Tech:** \`network topology\` \`gene prioritization\` \`random walk with restart\`
+**Tech:** \`` network topology \`` \``gene prioritization\`` \`` random walk with restart\``
 
 [View Repository](https://github.com/Nikhila123456/Topology-Driven-Analysis-of-Protein---Protein-Interactome-for-Prioritizing-Key-Comorbid-Genes-via-Su)
 
