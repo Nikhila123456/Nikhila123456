@@ -71,8 +71,7 @@ I am especially interested in roles where I can contribute to:
 ### 1. ImmunoFusionGCT -Multi-Modal Tumor Microenvironment Atlas & Immunotherapy Response Predictor *(flagship, in development)*
 A production-style pipeline fusing bulk RNA-seq, scRNA-seq, spatial transcriptomics/proteomics, and H&E pathology images to stratify patients by immune microenvironment and predict treatment response.
 
-**Tech:** \`Nextflow\` \`Scanpy/Seurat\` \`Squidpy\` \`pathology foundation model embeddings\` \`graph/attention fusion\` \`Docker\`
-
+**Tech:** `Nextflow` `Scanpy/Seurat` `Squidpy` `pathology foundation model embeddings` `graph/attention fusion` `Docker`
 [View Repository](https://github.com/Nikhila123456/ImmunoFusionGCT) *(coming soon)*
 
 ---
@@ -80,7 +79,7 @@ A production-style pipeline fusing bulk RNA-seq, scRNA-seq, spatial transcriptom
 ### 2. ATAC-Seq-Peak-CNN
 A scBasset-inspired convolutional neural network that predicts chromatin accessibility (ATAC-seq peaks) directly from DNA sequence.
 
-**Tech:** \`Python\` \`PyTorch\` \`regulatory genomics\` \`CNNs\`
+**Tech:** `Python` `PyTorch` `regulatory genomics` `CNNs`
 
 [View Repository](https://github.com/Nikhila123456/ATAC-Seq-Peak-CNN)
 
@@ -89,7 +88,7 @@ A scBasset-inspired convolutional neural network that predicts chromatin accessi
 ### 3. Single-Cell RNA Sequencing Analysis
 End-to-end scRNA-seq analysis workflow -QC, clustering, cell type annotation, and visualization.
 
-**Tech:** \`Seurat\` \`R\` \`single-cell RNA-seq\` \`cluster annotation\`
+**Tech:** `Seurat` `R` `single-cell RNA-seq` `cluster annotation`
 
 [View Repository](https://github.com/Nikhila123456/Single-cell-RNA-Sequencing)
 
@@ -107,7 +106,7 @@ A reproducible bulk RNA-seq processing and differential expression workflow, fro
 ### 5. Cross-Disease Association via Protein-Protein Interaction Networks
 Identified key genes and shared biological pathways across complex disorders using PPI network topology.
 
-**Tech:** \``network biology\`` \``PPI\`` \``comorbidity analysis\``
+**Tech:** `network biology` `PPI` `comorbidity analysis`
 
 [View Repository](https://github.com/Nikhila123456/A-Computational-Framework-to-Identify-Cross-Association-between-Complex-Disorders-by-Protein-Protein)
 
@@ -116,7 +115,7 @@ Identified key genes and shared biological pathways across complex disorders usi
 ### 6. Topology-Driven Prioritization of Comorbid Genes
 Used interactome topology and network propagation (random walk with restart) to prioritize key genes shared between comorbid diseases.
 
-**Tech:** \`` network topology \`` \``gene prioritization\`` \`` random walk with restart\``
+**Tech:** `network topology` `gene prioritization` `random walk with restart`
 
 [View Repository](https://github.com/Nikhila123456/Topology-Driven-Analysis-of-Protein---Protein-Interactome-for-Prioritizing-Key-Comorbid-Genes-via-Su)
 
