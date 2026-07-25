@@ -2,9 +2,12 @@
 
 ### Computational Biologist | Cancer Epigenomics & Multi-Omics
 
-I'm a Postdoctoral Research Fellow at **Florida Atlantic University**, working across DNA methylation, single-cell genomics, and liquid biopsy to turn multi-omics data into biologically meaningful, reproducible findings. My PhD is in Computer Science (Amrita Vishwa Vidyapeetham, 2021), so I sit at the intersection of the biology itself and the pipeline engineering that makes multi-omics data usable at scale.
+My background is in **computational biology, cancer genomics, and AI-driven multi-omics analysis**. I develop scalable computational pipelines for analyzing high-dimensional biological data and discovering clinically relevant biomarkers by integrating **single-cell transcriptomics, methylation sequencing (EPIC V2.0), bulk RNA-seq, spatial transcriptomics, and clinical data**. My research focuses on understanding disease mechanisms across the molecular, cellular, and tissue scales, with an emphasis on cancer biology, immunology, and precision medicine.
 
-I'm now looking to bring that same rigor into industry: biotech, pharma, or an AI/genomics company building the next generation of multi-omics or diagnostic tools.
+With a PhD in Computer Science and extensive experience collaborating with experimental scientists, I bridge computational methods with biological questions to generate mechanistically meaningful insights. I specialize in developing reproducible bioinformatics workflows, applying machine learning to biological data, and translating complex multi-omics datasets into biologically interpretable discoveries that support translational research and therapeutic development.
+
+👩🏽‍💻 **Current research:** Building AI-enabled computational pipelines for **single-cell RNA sequencing, cfMeDIP-seq methylation profiling, and spatial transcriptomics** to characterize immune and epithelial cell states in cancer and inflammatory diseases. My work integrates multi-modal omics and biological knowledge to identify cellular transitions, disease-associated biomarkers, and regulatory mechanisms that can advance precision oncology and next-generation AI-driven biological discovery.
+
 
 ---
 
