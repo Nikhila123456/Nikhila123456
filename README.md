@@ -10,14 +10,14 @@ I'm now looking to bring that same rigor into industry: biotech, pharma, or an A
 
 ## 🔬 What I Work On
  
-`` mermaid
+```mermaid
 flowchart LR
     A[Biological Question] --> B[Data Processing]
     B --> C[Reproducible Pipeline]
     C --> D[Machine Learning/ Multi-omics integration]
     D --> E[Biological Interpretation]
     E --> F[Documentation + Usable Tools]
-``
+```
 
 I am especially interested in roles where I can contribute to:
 
