@@ -34,7 +34,7 @@ I am especially interested in roles where I can contribute to:
 
 - 🔬 Postdoctoral Research Fellow, **Florida Atlantic University**
 - 🔬 Former Postdoctoral Researcher, **Purdue University**
-- 🎓 Ph.D., Computer Science — Amrita Vishwa Vidyapeetham (2021)
+- 🎓 Ph.D., Computer Science -Amrita Vishwa Vidyapeetham (2021)
 - 🏆 Former PI, **NIH NCATS award**
 - 🌊 **Nextflow Ambassador**
 
@@ -68,7 +68,7 @@ I am especially interested in roles where I can contribute to:
 
 ## 🚀 Featured Projects
 
-### 1. ImmunoFusionGCT — Multi-Modal Tumor Microenvironment Atlas & Immunotherapy Response Predictor *(flagship, in development)*
+### 1. ImmunoFusionGCT -Multi-Modal Tumor Microenvironment Atlas & Immunotherapy Response Predictor *(flagship, in development)*
 A production-style pipeline fusing bulk RNA-seq, scRNA-seq, spatial transcriptomics/proteomics, and H&E pathology images to stratify patients by immune microenvironment and predict treatment response.
 
 **Tech:** \`Nextflow\` \`Scanpy/Seurat\` \`Squidpy\` \`pathology foundation model embeddings\` \`graph/attention fusion\` \`Docker\`
@@ -87,7 +87,7 @@ A scBasset-inspired convolutional neural network that predicts chromatin accessi
 ---
 
 ### 3. Single-Cell RNA Sequencing Analysis
-End-to-end scRNA-seq analysis workflow — QC, clustering, cell type annotation, and visualization.
+End-to-end scRNA-seq analysis workflow -QC, clustering, cell type annotation, and visualization.
 
 **Tech:** \`Seurat\` \`R\` \`single-cell RNA-seq\` \`cluster annotation\`
 
@@ -140,4 +140,4 @@ Used interactome topology and network propagation (random walk with restart) to 
 
 ---
 
-Thanks for stopping by — I'm always up for a conversation about multi-omics integration, computational biology, or building AI tools that make it into a real industry pipeline.
+Thanks for stopping by -I'm always up for a conversation about multi-omics integration, computational biology, or building AI tools that make it into a real industry pipeline.
