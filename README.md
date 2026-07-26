@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=K2D&size=44&duration=2000&pause=800&color=000080&center=true&vCenter=true&width=850&lines=Hi%2C+I%27m+Dr.+Nikhila+Suresh+%F0%9F%91%8B%F0%9F%8F%BE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=K2D&size=44&duration=2000&pause=800&color=000080&center=true&vCenter=true&width=850&lines=Hi%2C+I%27m+Nikhila+Suresh+%F0%9F%91%8B%F0%9F%8F%BE)](https://git.io/typing-svg)
 
 ### Computational Biologist | Cancer Epigenomics & Multi-Omics
 
