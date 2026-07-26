@@ -36,7 +36,10 @@ I am especially interested in roles where I can contribute to:
 - 🔬 Former Postdoctoral Researcher, **Purdue University**
 - 🎓 Ph.D., Computer Science, Amrita Vishwa Vidyapeetham (2021)
 - 🏆 Former PI, **NIH NCATS award**
+- 👩‍🏫 Former **Assistant professor**
 - 🌊 **Nextflow Ambassador**
+- 👥 Postdoc association **realtionship officer**
+- 👥 Americam Medical Informatics Association(AMIA) **Executive board member**
 
 ---
 
