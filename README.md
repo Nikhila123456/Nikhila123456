@@ -1,13 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=K2D&size=44&duration=2000&pause=800&color=000080&center=true&vCenter=true&width=850&lines=Hi%2C+I%27m+Dr.+Nikhila+Suresh+%F0%9F%91%8B%F0%9F%8F%BE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=K2D&size=44&duration=2000&pause=800&color=000080&center=true&vCenter=true&width=850&lines=Hi%2C+I%27m+Dr.+Nikhila+Suresh+%F0%9F%91%8B%F0%9F%8F%BE)](https://git.io/typing-svg)
 
 ### Computational Biologist | Cancer Epigenomics & Multi-Omics
 
-My background is in **computational biology, cancer genomics, and AI-driven multi-omics analysis**. I develop scalable computational pipelines for analyzing high-dimensional biological data and discovering clinically relevant biomarkers by integrating **single-cell transcriptomics, methylation sequencing (EPIC V2.0), bulk RNA-seq, spatial transcriptomics, and clinical data**. My research focuses on understanding disease mechanisms across the molecular, cellular, and tissue scales, with an emphasis on cancer biology, immunology, and precision medicine.
+I'm a Postdoctoral Research Fellow at **Florida Atlantic University**, working across DNA methylation, single-cell genomics, and liquid biopsy to turn multi-omics data into biologically meaningful, reproducible findings. My PhD is in Computer Science (Amrita Vishwa Vidyapeetham, 2021), so I sit at the intersection of the biology itself and the pipeline engineering that makes multi-omics data usable at scale.
 
-With a PhD in Computer Science and extensive experience collaborating with experimental scientists, I bridge computational methods with biological questions to generate mechanistically meaningful insights. I specialize in developing reproducible bioinformatics workflows, applying machine learning to biological data, and translating complex multi-omics datasets into biologically interpretable discoveries that support translational research and therapeutic development.
-
-👩🏽‍💻 **Current research:** Building AI-enabled computational pipelines for **single-cell RNA sequencing, cfMeDIP-seq methylation profiling, and spatial transcriptomics** to characterize immune and epithelial cell states in cancer and inflammatory diseases. My work integrates multi-modal omics and biological knowledge to identify cellular transitions, disease-associated biomarkers, and regulatory mechanisms that can advance precision oncology and next-generation AI-driven biological discovery.
-
+I'm now looking to bring that same rigor into industry: biotech, pharma, or an AI/genomics company building the next generation of multi-omics or diagnostic tools.
 
 ---
 
@@ -40,8 +37,7 @@ I am especially interested in roles where I can contribute to:
 - 🎓 Ph.D., Computer Science, Amrita Vishwa Vidyapeetham (2021)
 - 🏆 Former PI, **NIH NCATS award**
 - 🌊 **Nextflow Ambassador**
-- 🤝 **Postdoctoral association, relationship officer**
-  
+
 ---
 
 ## 🧰 Technical Toolkit
@@ -67,6 +63,19 @@ I am especially interested in roles where I can contribute to:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Conda](https://img.shields.io/badge/Conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## ⚙️ Tool Development & Pipelines
+
+| Project | Description |
+| --- | --- |
+| [**ImmunoFusionGCT**](https://github.com/Nikhila123456/ImmunoFusionGCT) | Multi-modal pipeline fusing bulk RNA-seq, scRNA-seq, spatial transcriptomics/proteomics, and pathology images for tumor microenvironment and immunotherapy response prediction *(in development)* |
+| [**ATAC-Seq-Peak-CNN**](https://github.com/Nikhila123456/ATAC-Seq-Peak-CNN) | scBasset-inspired CNN for predicting chromatin accessibility (ATAC-seq peaks) directly from DNA sequence |
+| [**Single-cell-RNA-Sequencing**](https://github.com/Nikhila123456/Single-cell-RNA-Sequencing) | End-to-end scRNA-seq workflow covering QC, clustering, cell type annotation, and visualization |
+| [**Bulk-RNA-Seq-anlaysis**](https://github.com/Nikhila123456/Bulk-RNA-Seq-anlaysis) | Reproducible bulk RNA-seq processing and differential expression pipeline |
+| [**A-Computational-Framework-to-Identify-Cross-Association-between-Complex-Disorders-by-Protein-Protein**](https://github.com/Nikhila123456/A-Computational-Framework-to-Identify-Cross-Association-between-Complex-Disorders-by-Protein-Protein) | Identifies key genes and shared biological pathways across complex disorders using PPI network analysis |
+| [**Topology-Driven-Analysis-of-Protein---Protein-Interactome-for-Prioritizing-Key-Comorbid-Genes-via-Su**](https://github.com/Nikhila123456/Topology-Driven-Analysis-of-Protein---Protein-Interactome-for-Prioritizing-Key-Comorbid-Genes-via-Su) | Prioritizes comorbid genes using interactome topology and network propagation (random walk with restart) |
 
 ---
 
