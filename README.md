@@ -73,7 +73,7 @@ I am especially interested in roles where I can contribute to:
 
 | Project | Description |
 | --- | --- |
-| [**ImmunoFusionGCT**](https://github.com/Nikhila123456/ImmunoFusionGCT) | Multi-modal pipeline fusing bulk RNA-seq, scRNA-seq, spatial transcriptomics/proteomics, and pathology images for tumor microenvironment and immunotherapy response prediction *(in development)* |
+```| [**ImmunoFusionGCT**](https://github.com/Nikhila123456/ImmunoFusionGCT) | Multi-modal pipeline fusing bulk RNA-seq, scRNA-seq, spatial transcriptomics/proteomics, and pathology images for tumor microenvironment and immunotherapy response prediction *(in development)* |```
 | [**ATAC-Seq-Peak-CNN**](https://github.com/Nikhila123456/ATAC-Seq-Peak-CNN) | scBasset-inspired CNN for predicting chromatin accessibility (ATAC-seq peaks) directly from DNA sequence |
 | [**Single-cell-RNA-Sequencing**](https://github.com/Nikhila123456/Single-cell-RNA-Sequencing) | End-to-end scRNA-seq workflow covering QC, clustering, cell type annotation, and visualization |
 | [**Bulk-RNA-Seq-anlaysis**](https://github.com/Nikhila123456/Bulk-RNA-Seq-anlaysis) | Reproducible bulk RNA-seq processing and differential expression pipeline |
